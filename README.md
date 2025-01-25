@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 Hi, I'm Claire!
+
+- 🔭 I’m currently a sophomore studying Computer Science at Tufts University!
+- 🌱 I’m interested in learning more about Full-Stack Development and Artificial Intelligence!
+- 📫 How to reach me: claire.lee@tufts.edu
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love reading!
