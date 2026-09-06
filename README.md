@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hi, I'm Claire!
 
-- 🔭 I’m currently a junior studying Computer Science at Tufts University!
+- 🔭 I’m currently a senior studying Computer Science at Tufts University!
 - 🌱 I’m interested in learning more about Full-Stack Development, Artificial Intelligence, and Product Management!
 - 📫 How to reach me: claire.lee@tufts.edu
 - 😄 Pronouns: she/her
